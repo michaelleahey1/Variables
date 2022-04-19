@@ -1,0 +1,4 @@
+this area is for primitive numbers.
+numbers
+characters
+booleans
